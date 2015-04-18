@@ -1,0 +1,7 @@
+name: "Autocompleter"
+
+sources:
+ - Autocompleter.Local.js
+ - Autocompleter.Request.js
+ - Autocompleter.js
+ - Observer.js
